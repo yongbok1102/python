@@ -1,3 +1,4 @@
+#coding=utf-8
 #countLetter.py
 print("아무 문자열을 입력하세요.")
 a = input() #문자열을 입력받는다.
